@@ -1,10 +1,3 @@
-/**
-* @author  Girish Mahale
-* @branch  AIML B3
-* @batch   2022-26
-* @prn     23070126504
-*/
-
 public class Main {
     public static void main(String[] args) {
         // Creating and testing a Mallard Duck
