@@ -1,10 +1,3 @@
-/**
-* @author  Girish Mahale
-* @branch  AIML B3
-* @batch   2022-26
-* @prn     23070126504
-*/
-
 import java.util.InputMismatchException;
 
 public class Main {
